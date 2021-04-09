@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Customer Lifecycle Marketing 
+- 🔭 I’m currently working on Customer Lifecycle Projects 
 - 🌱 I’m currently learning: How to unlearn? Rethink and abstract Paint
 - 👯 I’m looking to collaborate on any customer journey mapping sessions/ Customer Segmentation Projects
 - 📫 Reach me via slack @Shangari-k
