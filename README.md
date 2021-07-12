@@ -14,6 +14,7 @@
 - Microeconomics
 - Game theory
 - Psychology
+- Philosophy
 
 **My Focus**
 - Mental Clarity
