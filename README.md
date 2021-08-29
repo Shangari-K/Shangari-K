@@ -26,6 +26,7 @@
 - [The school of Life ](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 - [Farnam Street ](https://fs.blog/)
 - [TED](https://www.ted.com/profiles/2897805)
+- [Brain Pickings](https://www.brainpickings.org/2016/10/23/10-years-of-brain-pickings/) 
 
 **What do I do @Github**
 - I believe that customer journeys should be unending and ever-evolving. I focus on building programs and strategies to give our customers a world-class customer experience at each stage of our lifecycle stages (onboarding, Activation, Adoption and loyalty, and Retention). Lifecycle Marketing is a new and evolving concept where we look at the customer journey not as a funnel but as a flywheel. 
